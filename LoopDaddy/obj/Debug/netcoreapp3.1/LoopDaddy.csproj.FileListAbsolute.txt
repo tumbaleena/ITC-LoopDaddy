@@ -1,0 +1,13 @@
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\obj\Debug\netcoreapp3.1\LoopDaddy.csprojAssemblyReference.cache
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\obj\Debug\netcoreapp3.1\LoopDaddy.AssemblyInfoInputs.cache
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\obj\Debug\netcoreapp3.1\LoopDaddy.AssemblyInfo.cs
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\obj\Debug\netcoreapp3.1\LoopDaddy.csproj.CoreCompileInputs.cache
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\bin\Debug\netcoreapp3.1\LoopDaddy.exe
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\bin\Debug\netcoreapp3.1\LoopDaddy.deps.json
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\bin\Debug\netcoreapp3.1\LoopDaddy.runtimeconfig.json
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\bin\Debug\netcoreapp3.1\LoopDaddy.runtimeconfig.dev.json
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\bin\Debug\netcoreapp3.1\LoopDaddy.dll
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\bin\Debug\netcoreapp3.1\LoopDaddy.pdb
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\obj\Debug\netcoreapp3.1\LoopDaddy.dll
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\obj\Debug\netcoreapp3.1\LoopDaddy.pdb
+C:\Users\Aleena\source\repos\LoopDaddy\LoopDaddy\obj\Debug\netcoreapp3.1\LoopDaddy.genruntimeconfig.cache
