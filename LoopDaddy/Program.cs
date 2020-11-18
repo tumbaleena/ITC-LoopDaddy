@@ -22,8 +22,7 @@ namespace LoopDaddy
             //Prompt the user for a number.  Use a for loop to output all the numbers from that number to 0.           
             /*Console.Write("Please enter a number: ");
             string userInput = Console.ReadLine();
-            int number;
-            number = int.Parse(userInput);
+            int number = int.Parse(userInput);
             for (int i = number; i>= 0; i--)
             {
                 Console.WriteLine(i);
@@ -41,7 +40,7 @@ namespace LoopDaddy
                  Answer = Console.ReadLine();
                 Console.WriteLine("Hello World!");
             }
-            while (Answer == "yes"); */
+            while (input.ToLower() == "yes" || input.ToLower().Contains("y")); */
         }
     }
 }
