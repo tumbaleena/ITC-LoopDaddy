@@ -8,5 +8,7 @@ Gist of the code for all exercises: https://gist.github.com/tumbaleena/a4330f52c
 Gist of today's other exercise (methods): https://github.com/tumbaleena/ITC-MethodExercises
 
 
+
 Exercise 1 fiddle: https://dotnetfiddle.net/4yAlrC
+
 Exercise 2 fiddle: https://dotnetfiddle.net/f8ILmY
