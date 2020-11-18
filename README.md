@@ -1,5 +1,5 @@
 # ITC-LoopDaddy
-DevBuild Intro to C# Exercises Day 2
+DevBuild Intro to C# Loop Exercises Day 2
 
 **These are just examples of working code. There are countless different ways of accomplishing most anything. Just because your code looks different doesn't mean it is incorrect.**
 
