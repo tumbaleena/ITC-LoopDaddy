@@ -13,3 +13,5 @@ Gist of today's other exercise (methods): https://github.com/tumbaleena/ITC-Meth
 Exercise 1 fiddle: https://dotnetfiddle.net/4yAlrC
 
 Exercise 2 fiddle: https://dotnetfiddle.net/f8ILmY
+
+Exercise 3 fiddle: https://dotnetfiddle.net/U5I0Y4
