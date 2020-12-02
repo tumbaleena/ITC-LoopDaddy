@@ -34,14 +34,15 @@ namespace LoopDaddy
             //EXERCISE 1 - 
             //Use a do-while loop to output "Hello, World!" in a loop.  Each time you output "Hello, World!"
             //Ask the user wheher or not they wouldl ike to continue.
-            /* string Answer;
+            /*		string input;
             do
             {
-                Console.Write("Are you ready for this jelly?(yes/no) ");
-                 Answer = Console.ReadLine();
                 Console.WriteLine("Hello World!");
+                Console.Write("Are you ready for this jelly?(yes/no) ");
+                input = Console.ReadLine();
+
             }
-            while (Answer == "yes"); */
+            while (input.ToLower() == "yes" || input.ToLower().Contains("y")); */
         }
     }
 }

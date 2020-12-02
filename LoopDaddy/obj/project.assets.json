@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleena\\source\\repos\\LoopDaddy\\LoopDaddy\\LoopDaddy.csproj",
+      "projectUniqueName": "C:\\Users\\Aleena\\source\\repos\\ITC-LoopDaddy\\LoopDaddy\\LoopDaddy.csproj",
       "projectName": "LoopDaddy",
-      "projectPath": "C:\\Users\\Aleena\\source\\repos\\LoopDaddy\\LoopDaddy\\LoopDaddy.csproj",
+      "projectPath": "C:\\Users\\Aleena\\source\\repos\\ITC-LoopDaddy\\LoopDaddy\\LoopDaddy.csproj",
       "packagesPath": "C:\\Users\\Aleena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleena\\source\\repos\\LoopDaddy\\LoopDaddy\\obj\\",
+      "outputPath": "C:\\Users\\Aleena\\source\\repos\\ITC-LoopDaddy\\LoopDaddy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
