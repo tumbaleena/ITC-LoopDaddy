@@ -15,3 +15,12 @@ Exercise 1 fiddle: https://dotnetfiddle.net/4yAlrC
 Exercise 2 fiddle: https://dotnetfiddle.net/f8ILmY
 
 Exercise 3 fiddle: https://dotnetfiddle.net/U5I0Y4
+
+
+------------------------------
+
+C# Fundamentals tutorial on Channel 9: https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners
+
+C# on Microsoft Learn: https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/
+
+C# on freeCodeCamp: https://www.freecodecamp.org/news/search/?query=C%23
