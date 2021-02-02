@@ -10,11 +10,11 @@ Gist of today's other exercise (methods): https://github.com/tumbaleena/ITC-Meth
 
 
 
-Exercise 1 fiddle: https://dotnetfiddle.net/4yAlrC
+Exercise 1: https://repl.it/@tumbaleena/Loop-Exercise-1
 
-Exercise 2 fiddle: https://dotnetfiddle.net/f8ILmY
+Exercise 2: https://repl.it/@tumbaleena/Loops-Exercise-2
 
-Exercise 3 fiddle: https://dotnetfiddle.net/U5I0Y4
+Exercise 3: https://repl.it/@tumbaleena/Loops-Exercise-3
 
 
 ------------------------------
